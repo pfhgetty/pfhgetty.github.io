@@ -2,9 +2,14 @@ body{
   background-color: black;
   color: white;
   opacity: 0;
-  text-align: center;
+  font-family: Arial, san-serif;
+}
+
+#name{
+    text-align: center;
   animation-name: FadeIn;
   animation-duration:2s;
+  position:absolute;
 }
 
 @keyframes FadeIn {
