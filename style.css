@@ -10,6 +10,7 @@ body{
   animation-name: FadeIn;
   animation-duration:2s;
   position:absolute;
+  width: 100%;
 }
 
 @keyframes FadeIn {
